@@ -13,10 +13,11 @@ const Workcards = () => {
   return (
     <div className='contain bg-dark '>
       <div className='container  '>
+        <div className='build'>
 
         <h2>Build up the whole picture</h2>
         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui<br /> officia deserunt mollit anim id est laborum — semper quis lectus<br /> nulla at volutpat diam ut venenatis.</p>
-
+        </div>
         <div className='row'>
           <div className='col-md-4'>
             <Workflow title="Robust Workflow" icons={icon} discription="Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat." />

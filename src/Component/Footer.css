@@ -29,3 +29,10 @@
     cursor: pointer;
     
 }
+
+@media  screen and (max-width:640px){
+    
+    .logo a img{
+        margin-top: 1.5rem;
+    }
+}

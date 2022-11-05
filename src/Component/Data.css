@@ -28,4 +28,12 @@
     .image a img{
         max-width: 100%;
     }
+    .just{
+        margin-top: 1rem;
+        display: inline-block;
+    }
+    .para{
+        margin-top: 1rem;
+        align-items: center;
+    }
 }

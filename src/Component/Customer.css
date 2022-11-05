@@ -11,3 +11,9 @@
     padding-top: 3rem;
     padding-bottom: 5rem;
 }
+@media  screen and (max-width:640px){
+    .card{
+        margin: 10px 0 10px 0;
+        display: inline-block;
+    }
+}
