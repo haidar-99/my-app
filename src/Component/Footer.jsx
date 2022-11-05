@@ -45,7 +45,7 @@ const Footer = () => {
                             <li>Contact</li>
                             <li>About us</li>
                             <li>FAQ's</li>
-                            <li>Support</li>
+                          
                         </ul>
                     </div>
                 </div>
