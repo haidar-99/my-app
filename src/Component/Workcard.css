@@ -1,0 +1,23 @@
+.contain h1{
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+.contain p{
+    color: rgb(172, 165, 165);
+    font-weight: bold;
+}
+.container h2{
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.h{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(231, 225, 225);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}

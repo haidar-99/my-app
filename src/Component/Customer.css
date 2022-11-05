@@ -1,0 +1,13 @@
+.container p{
+    color: white;
+    text-align: center;
+}
+.container h2{
+    text-align: center;
+}
+.test{
+    width: 100%;
+    height: auto;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}

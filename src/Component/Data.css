@@ -1,0 +1,31 @@
+.data h1{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+
+}
+.data p{
+    text-align: center;
+    color: rgb(213, 204, 204);
+}
+.row h5{
+    color: blue;
+    
+}
+.data h3{
+    
+    font-size: 3rem;
+    color: white;
+
+}
+.row p{
+    text-align: left;
+}
+.para{
+    margin-top: 14rem;
+}
+@media  screen and (max-width:640px){
+    .image a img{
+        max-width: 100%;
+    }
+}

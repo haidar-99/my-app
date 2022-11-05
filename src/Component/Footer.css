@@ -1,0 +1,31 @@
+.outer{
+    background-color: rgb(92, 92, 255);
+    height: 12rem;
+
+}
+.foot{
+    padding-bottom: 5rem;
+}
+.box h1{
+    font-weight: bold;
+    margin-top: 4rem;
+    color: black;
+}
+.form-control{
+    margin-top: 4rem;
+    
+    
+}
+.list{
+    
+    float: right;
+    
+}
+.list li{
+    color: white;
+    padding: 1.5rem;
+    justify-content: space-around;
+    text-decoration: none;
+    cursor: pointer;
+    
+}

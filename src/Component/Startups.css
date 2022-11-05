@@ -1,0 +1,40 @@
+.contain{
+    
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.start{
+    height: 40rem;
+    width: 100%;
+    margin-top: 1.5rem;
+    display: inline-block;
+}
+.start h1{
+    color: white;
+    font-weight: bold;
+    
+    
+}
+.start span{
+    color: blue;
+}
+.start p{
+    color: white;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+ .btn-1{
+    margin-top: 2rem;
+    padding: .5rem 2rem .5rem 2rem;
+    border-radius: .5rem;
+    margin: 1rem;
+}
+@media  screen and (max-width:640px){
+    .video a img{
+        max-width: 100%;
+    }
+}
